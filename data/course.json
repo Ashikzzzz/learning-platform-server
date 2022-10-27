@@ -5,6 +5,8 @@
       "picture": "https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg",
       "rating": 35,
       "name": "React",
+      "price":"3400",
+      "duration":"3 month",
       "category_id": "1",
       "about": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.Jun 27, 2022.React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development. The library first appeared in May 2013 and is now one of the most commonly used frontend libraries for web development.It's an open-source and component-based framework responsible for creating the application's view layer. ReactJs follows the Model View Controller (MVC) architecture, and the view layer is accountable for handling mobile and web apps. React is famous for building single-page applications and mobile apps"
     
@@ -16,6 +18,8 @@
       "rating": 4.5,
       "category_id": "2",
       "name": "Flutter",
+      "duration":"3 month",
+      "price":"4000",
       "about": "What is Flutter? Flutter is Google's portable UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase. Flutter. Original author(s) Google. Flutter is a free and open-source mobile UI framework created by Google and released in May 2017. In a few words, it allows you to create a native mobile application with only one codebase. This means that you can use one programming language and one codebase to create two different apps (for iOS and Android)"
     },
     {
@@ -25,6 +29,8 @@
       "rating": 3.3,
       "category_id": "3",
       "name": "Python",
+      "duration":"3 month",
+      "price":"3000",
       "about": "Find Learn Python From Basics. Now with us! Search For Learn Python From Basics at Discovertoday.co. Search Now. Awesome Info. Get Latest Info. Relevant Results. Find it Here. Fast Response. Latest Today. Updated Info. Get More Results. Attractive Results.  Python is a dynamic, high-level, free open source, and interpreted programming language. It supports object-oriented programming as well as procedural-oriented programming. In Python, we don't need to declare the type of variable because it is a dynamically typed language.Aug 8, 2022 .Python is an interpreted, interactive, object-oriented programming language. It incorporates modules, exceptions, dynamic typing, very high level dynamic data types, and classes. It supports multiple programming paradigms beyond object-oriented programming, such as procedural and functional programming "
     },
     {
@@ -34,6 +40,8 @@
       "rating": 4.5,
       "category_id": "4",
       "name": "Go Lang",
+      "duration":"3 month",
+      "price":"3500",
       "about": "Go (also called Golang or Go language) is an open source programming language used for general purpose. Go was developed by Google engineers to create dependable and efficient software. Most similarly modeled after C, Go is statically typed and explicit. What is Golang Useful for? Golang is useful for carrying out programming for scalable servers and large software systems. The Golang programming language was built to fill in the gaps of C++ and Java that Google came across while working with its servers and distributed systems.Go is a compiled language ,not a scripting language . It is a procedural language . Though it doesn't support classes unlike Java and C# ,it supports structs and uses packages for structuring of program.      "
     },
     {
@@ -42,6 +50,8 @@
       "picture": "https://www.fita.in/wp-content/uploads/2019/11/php-language.jpg",
       "rating": 33,
       "name": "PhP",
+      "price":"4500",
+      "duration":"3 month",
       "category_id": "5",
       "about": "What is PHP? PHP is an acronym for . PHP is a widely-used, open source scripting language. PHP scripts are executed on the server. PHP is free to download and use. PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.PHP is a server-side scripting language created in 1995 by Rasmus Lerdorf. PHP is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTMl."
     },
@@ -52,6 +62,8 @@
       "rating": 2.8,
       "category_id": "6",
       "name": "Node Js",
+      "duration":"3 month",
+      "price":"4100",
       "about": "Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind. Every browser has its own version of a JS engine, and node.      "
     }
   ]
